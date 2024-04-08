@@ -105,8 +105,8 @@
         <li><a target="iframe1" href="board.php?board_id=notice">공지사항</a></li>
         <li><a target="iframe1" href="board.php?board_id=board">자유게시판</a></li>
 
-        <li><a target="iframe1" href="board.php?board_id=music">음악</a></li>
-        <li><a target="iframe1" href="board.php?board_id=movie">영화</a></li>
+        <li><a target="iframe1" href="board.php?board_id=music">입시</a></li>
+        <li><a target="iframe1" href="board.php?board_id=movie">정시</a></li>
       </ul>
     </aside>
     <section id="main">
