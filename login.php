@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>K-borad 로그인</title>
+    <title>클래스 in 온라인 로그인</title>
     <style>
       * {margin: 0; padding: 0;}
       #login_box{
